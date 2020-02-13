@@ -11,16 +11,24 @@ The base receiver is NovAtel OEM719 as files marked with 'O7', rover is u-blox Z
 -------
 ##### SM19301 -- Simulation test at DOY301 of 2019
 -- .SM19301.19N
+
 -- .SM19301_F9.20O
+
 -- .SM19301_O7.20O
+
 -- .SM19301_F9.brief.txt
+
 -- .SM19301_O7.brief.txt
 
 ##### SA20001 -- Sixteenth Avenue vehicle test at DOY001 of 2020
 -- .SA20001.20P
+
 -- .SA20001_F9.20O
+
 -- .SA20001_O7.20O
+
 -- .SA20001_F9.brief.txt
+
 -- .SA20001_O7.brief.txt
 
 Please contact the corresponding author for further assistance:
