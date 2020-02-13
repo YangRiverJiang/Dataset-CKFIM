@@ -1,0 +1,27 @@
+file: I:\TSS\CORTST\RV1\data_handin\SM19301_F9.19O
+duration: 2019/10/28-00:10:29.996    --->    2019/10/28-01:16:08.000
+which is 1h 5m 38.004s
+sample rate: 1Hz
+epoch count: 3939
+
+constellation visibility
+All:  9.28 +- 5.75, min :  7, max : 12
+ G :  9.28 +- 5.75, min :  7, max : 12
+
+obs type summerizing & missing total
+
+G01 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 L2L :    270, 
+G03 :    2737 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 C1C :      1, L1C :      1, D1C :      1, S1C :      1, L2L :      1, 
+G06 :     829 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 C1C :      1, L1C :      1, D1C :      1, S1C :      1, L2L :      1, 
+G08 :    1321 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 C1C :      1, L1C :      1, D1C :      1, S1C :      1, L2L :      1, 
+G11 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 L2L :    270, 
+G14 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 L2L :    277, 
+G17 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 L2L :    277, 
+G19 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 C2L :      1, L2L :    276, D2L :      1, S2L :      1, 
+G20 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 L2L :    274, 
+G22 :    2497 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 C1C :      1, L1C :      1, D1C :      1, S1C :      1, L2L :      1, 
+G27 :    1597 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 C1C :      1, L1C :      1, D1C :      1, S1C :      1, L2L :      1, 
+G28 :    3939 epochs, C1C L1C D1C S1C C2L L2L D2L S2L                                 L2L :    276, 
+
+missing epochs
+total: 0, which is: 0.000%

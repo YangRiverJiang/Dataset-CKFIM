@@ -1,0 +1,43 @@
+file: SA20001_O7.obs
+duration: 2020/01/01-22:15:30.000    --->    2020/01/01-22:54:00.000
+which is 38m 30.000s
+sample rate: 1Hz
+epoch count: 2311
+
+constellation visibility
+All: 22.48 +- 2.45, min : 22, max : 25
+ G :  9.14 +- 1.04, min :  9, max : 10
+ R :  7.57 +- 1.48, min :  7, max :  8
+ E :  5.77 +- 1.62, min :  5, max :  7
+
+obs type summerizing & missing total
+
+G03 :     321 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W                 fully observed, 
+G05 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W                 fully observed, 
+G07 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W                 fully observed, 
+G08 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W C5Q L5Q D5Q S5Q C5Q :   2290, L5Q :   2290, D5Q :   2290, S5Q :   2290, 
+G09 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W C5Q L5Q D5Q S5Q fully observed, 
+G16 :    2311 epochs, C1C L1C D1C S1C C2W L2W D2W S2W                                 fully observed, 
+G23 :    2311 epochs, C1C L1C D1C S1C C2W L2W D2W S2W                                 fully observed, 
+G26 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W                 fully observed, 
+G27 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W C5Q L5Q D5Q S5Q C5Q :   1000, L5Q :   1000, D5Q :   1000, S5Q :   1000, 
+G30 :    2311 epochs, C1C L1C D1C S1C C2S L2S D2S S2S C2W L2W D2W S2W C5Q L5Q D5Q S5Q C5Q :   1852, L5Q :   1852, D5Q :   1852, S5Q :   1852, 
+R01 :    2311 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R07 :    2311 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R08 :    2311 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R09 :    2311 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R10 :    2311 epochs, C1C L1C D1C S1C                                                 fully observed, 
+R11 :    2311 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R17 :     221 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R18 :    2311 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 fully observed, 
+R19 :    1106 epochs, C1C L1C D1C S1C C2C L2C D2C S2C C2P L2P D2P S2P                 C2C :      4, L2C :      4, D2C :      4, S2C :      4, C2P :      4, L2P :      4, D2P :      4, S2P :      4, 
+E02 :    1638 epochs, C1C L1C D1C S1C C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q                 C1C :    126, L1C :    126, D1C :    126, S1C :    126, C7Q :     22, L7Q :     22, D7Q :     22, S7Q :     22, C8Q :      9, L8Q :      9, D8Q :      9, S8Q :      9, 
+E07 :    2311 epochs, C1C L1C D1C S1C C5Q L5Q D5Q S5Q C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q C5Q :    110, L5Q :    110, D5Q :    110, S5Q :    110, 
+E08 :     131 epochs, C1C L1C D1C S1C C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q                 fully observed, 
+E19 :    2311 epochs, C1C L1C D1C S1C C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q                 C8Q :      4, L8Q :      4, D8Q :      4, S8Q :      4, 
+E21 :    2311 epochs, C1C L1C D1C S1C C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q                 C8Q :      1, L8Q :      1, D8Q :      1, S8Q :      1, 
+E27 :    2311 epochs, C1C L1C D1C S1C C5Q L5Q D5Q S5Q C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q C5Q :      4, L5Q :      4, D5Q :      4, S5Q :      4, 
+E30 :    2311 epochs, C1C L1C D1C S1C C5Q L5Q D5Q S5Q C7Q L7Q D7Q S7Q C8Q L8Q D8Q S8Q C5Q :      8, L5Q :      8, D5Q :      8, S5Q :      8, 
+
+missing epochs
+total: 0, which is: 0.000%
