@@ -1,4 +1,4 @@
-file: I:\TSS\CORTST\RV1\data_handin\SM19301_O7.19O
+file: SM19301_O7.19O
 duration: 2019/10/28-00:08:59.000    --->    2019/10/28-01:11:28.000
 which is 1h 2m 29.000s
 sample rate: 1Hz
