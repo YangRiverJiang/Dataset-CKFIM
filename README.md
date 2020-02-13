@@ -1,8 +1,8 @@
 ## Dataset-CKFIM
 The archived dataset data of manuscript draft:
 
-> A linear Kalman filter-based integrity monitoring considering colored measurement noise
-  Yuting Gao; Yang Jiang; Yang Gao, Guanwen Huang
+> A linear Kalman filter-based integrity monitoring considering colored measurement noise  
+Yuting Gao; Yang Jiang; Yang Gao, Guanwen Huang
 
 -------------
 Simulated and vehicle-based dynamic GNSS data for both base and rover at 1Hz. Data are in RINEX 3.02 format. Both observation and ephemeris files are provided.
