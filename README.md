@@ -1,5 +1,5 @@
 ## Dataset-CKFIM
-The archived dataset data of manuscript draft:
+The archived data of manuscript draft:
 
 > A linear Kalman filter-based integrity monitoring considering colored measurement noise  
 Yuting Gao; Yang Jiang; Yang Gao, Guanwen Huang
